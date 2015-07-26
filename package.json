@@ -8,10 +8,10 @@
     "webkit"
   ],
   "description": "Headless WebKit with JS API",
-  "homepage": "https://github.com/zeevl/phantomjs2",
+  "homepage": "https://github.com/Lochlan/phantomjs2",
   "repository": {
     "type": "git",
-    "url": "git://github.com/zeevl/phantomjs2.git"
+    "url": "git://github.com/Lochlan/phantomjs2.git"
   },
   "licenses": [
     {
